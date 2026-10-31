@@ -14,6 +14,20 @@ Free automatic subtitles, local transcription and editable karaoke captions.
 - Export SRT for text and timestamps, or render captions into video using MP4 beta.
 - Keep editable projects locally and export project backups.
 
+## Try a real project
+
+[Open the worked example](https://freeandprivate.top/en/examples/) to download
+the short source recording, actual SRT output, karaoke MP4 and a restorable TAR
+project. Restore creates a new local project, so you can explore editing without
+running recognition again. The page explains every file and the checks performed.
+
+The recording is synthetic English speech created locally from original text.
+Recognition for this example used the optional connected Windows/NVIDIA module;
+it is not a browser-only speed or general accuracy benchmark. MP4 output from
+build 87 was independently decoded: 454 video frames with preserved presentation
+clocks and matching decoded audio. The backup preserves the original media bytes.
+All six page languages use this same clearly labelled English recording.
+
 Recognition supports 28 recording languages. The interface is available in English,
 Polish, German, Spanish, French and Italian. Choosing a recording language does
 not translate the subtitles.
@@ -41,14 +55,14 @@ automatically between devices. Back up a project before clearing browser data.
 
 ## Guides in your language
 
-| Language | Website | Guides |
-| --- | --- | --- |
-| English | [Home](https://freeandprivate.top/) | [Guides](https://freeandprivate.top/en/guides/) |
-| Polski | [Strona główna](https://freeandprivate.top/pl/) | [Poradniki](https://freeandprivate.top/pl/guides/) |
-| Deutsch | [Startseite](https://freeandprivate.top/de/) | [Anleitungen](https://freeandprivate.top/de/guides/) |
-| Español | [Inicio](https://freeandprivate.top/es/) | [Guías](https://freeandprivate.top/es/guides/) |
-| Français | [Accueil](https://freeandprivate.top/fr/) | [Guides](https://freeandprivate.top/fr/guides/) |
-| Italiano | [Home](https://freeandprivate.top/it/) | [Guide](https://freeandprivate.top/it/guides/) |
+| Language | Website | Guides | Practice project |
+| --- | --- | --- | --- |
+| English | [Home](https://freeandprivate.top/) | [Guides](https://freeandprivate.top/en/guides/) | [Example](https://freeandprivate.top/en/examples/) |
+| Polski | [Strona główna](https://freeandprivate.top/pl/) | [Poradniki](https://freeandprivate.top/pl/guides/) | [Przykład](https://freeandprivate.top/pl/examples/) |
+| Deutsch | [Startseite](https://freeandprivate.top/de/) | [Anleitungen](https://freeandprivate.top/de/guides/) | [Beispiel](https://freeandprivate.top/de/examples/) |
+| Español | [Inicio](https://freeandprivate.top/es/) | [Guías](https://freeandprivate.top/es/guides/) | [Ejemplo](https://freeandprivate.top/es/examples/) |
+| Français | [Accueil](https://freeandprivate.top/fr/) | [Guides](https://freeandprivate.top/fr/guides/) | [Exemple](https://freeandprivate.top/fr/examples/) |
+| Italiano | [Home](https://freeandprivate.top/it/) | [Guide](https://freeandprivate.top/it/guides/) | [Esempio](https://freeandprivate.top/it/examples/) |
 
 Start with [local subtitles](https://freeandprivate.top/en/guides/private-subtitles/),
 [SRT export](https://freeandprivate.top/en/guides/export-srt/) or
@@ -59,7 +73,7 @@ Start with [local subtitles](https://freeandprivate.top/en/guides/private-subtit
 This is the public product presentation, not the application's source repository.
 It contains no private source code, credentials, user projects or recordings.
 The project is free to use; no open-source licence is asserted here.
-Demonstration videos have not been published yet.
+The six narrated product demonstration films have not been published yet.
 
-Product information checked on 29 October 2026.
+Product information checked on 31 October 2026.
 
